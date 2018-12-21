@@ -1,5 +1,5 @@
 # spring73
-my new project asklf nskldj sdsdfsdf
+my new project asklf nskldj sdsdfsdfasdfadsfsdfsdf
 
 Based on seed project `atomist-seeds:spring-rest-seed`
 
