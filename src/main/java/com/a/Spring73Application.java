@@ -1,3 +1,4 @@
+/* comment */
 package com.a;
 
 import org.springframework.boot.SpringApplication;
